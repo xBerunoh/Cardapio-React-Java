@@ -1,4 +1,4 @@
-# 🍽️ CRUD de Comidas no Cardápio
+# 🍽️ CRUD de Cardapio
 
 Este projeto é um sistema **CRUD (Create, Read, Update, Delete)** para gerenciamento de comidas em um cardápio, composto por:
 
